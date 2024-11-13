@@ -1,0 +1,2 @@
+pandas==2.2.3 #for file read/write
+mysql-connector-python==9.1.0  #To connect to MySQL database
